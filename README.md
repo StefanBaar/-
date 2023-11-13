@@ -14,7 +14,7 @@ Task:
 - 全てのフレームを通して、3つのトマトを追跡します。
 - no False Positives/Negatives (0FN / 0FP)
 
-<video src='https://youtu.be/SfG3to6wOK0' width=180/>
+<video src='https://youtu.be/SfG3to6wOK0' width=180/><video />
 
 さらに詳しい情報：
 
