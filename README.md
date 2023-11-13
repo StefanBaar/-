@@ -39,3 +39,6 @@ Object tracking:
 model training について：
 
 - https://docs.ultralytics.com/modes/train/#why-choose-ultralytics-yolo-for-training
+
+![QRcode](./qr.svg)
+<img src="./qr.svg">
