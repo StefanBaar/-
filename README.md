@@ -9,14 +9,15 @@
 ノートブックを実行するには次のモジュールが必要です。
 
 
-
 Task:
 - 全てのフレームを通して、3つのトマトを追跡します。
 - no False Positives/Negatives (0FN / 0FP)
 
 <video src='https://youtu.be/SfG3to6wOK0' width=180/><video />
 
-さらに詳しい情報：
+[![tomato tracking](https://youtu.be/SfG3to6wOK0/0.jpg)](https://youtu.be/SfG3to6wOK0 "tomato tracking")
+
+## さらに詳しい情報
 
 Yolo V8 について：
 - https://github.com/ultralytics/ultralytics
