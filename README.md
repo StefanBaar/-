@@ -13,9 +13,11 @@ Task:
 - 全てのフレームを通して、3つのトマトを追跡します。
 - no False Positives/Negatives (0FN / 0FP)
 
-<video src='https://youtu.be/SfG3to6wOK0' width=180/><video />
-
-[![tomato tracking](https://youtu.be/SfG3to6wOK0/0.jpg)](https://youtu.be/SfG3to6wOK0 "tomato tracking")
+<iframe width="560" height="315"
+src="https://youtu.be/SfG3to6wOK0"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
 ## さらに詳しい情報
 
