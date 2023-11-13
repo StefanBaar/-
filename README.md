@@ -8,6 +8,12 @@
 インスタンスの分割には、「YOLOv8x-seg」に基づく事前トレーニング済みモデルが使用されます。 モデルは少数の画像のみでトレーニングされています。 ただし、トレーニングおよび検証のデータセットは、幾何学的拡張によって拡張されています。
 ノートブックを実行するには次のモジュールが必要です。
 
+Run:
+- git clone https://github.com/StefanBaar/Kari-haizoku-zemi
+- cd Kari-haizoku-zemi
+- jupyter notebook or vscode
+
+or read at:
 - [5年11月16日 トマト 検出 追跡 notebook](tomato_detection_tracking.ipynb)
 
 Task:
