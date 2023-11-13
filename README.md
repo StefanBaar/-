@@ -20,11 +20,8 @@ Task:
 - 全てのフレームを通して、3つのトマトを追跡します。
 - no False Positives/Negatives (0FN / 0FP)
 
-<iframe width="560" height="315"
-src="https://youtu.be/SfG3to6wOK0"
-frameborder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+https://github.com/StefanBaar/Kari-haizoku-zemi/assets/6949138/6b212246-a26e-45ef-9734-bbe99ca9b6c0
+
 
 ## さらに詳しい情報
 
