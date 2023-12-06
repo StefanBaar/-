@@ -1,1 +1,2 @@
-tomato_model.pt
+models/tomato_model.pt
+models/midas_v21_384.pt
