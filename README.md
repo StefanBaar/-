@@ -1,6 +1,19 @@
-# 仮配属ゼミ(5年11月16日)
+# 仮配属ゼミ(5年12月7日)
 
 > バール・シュテファン (Stefan Baar)
+
+## トマトの Monocular depth estimation (Midas)
+
+"Monocular depth estimation (Midas)" 推定を使用して前景オブジェクトと背景オブジェクトを区別します。
+
+Run:
+- git clone <https://github.com/StefanBaar/Kari-haizoku-zemi>
+- cd Kari-haizoku-zemi
+- jupyter notebook or vscode
+
+or read at:
+
+- [5年12月7日 トマトの Monocular depth estimation (Midas) notebook](depth_estimation.ipynb)
 
 ## トマト - 検出 - 追跡
 
