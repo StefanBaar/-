@@ -15,6 +15,10 @@ or read at:
 
 - [5年12月7日 トマトの Monocular depth estimation (Midas) notebook](depth_estimation.ipynb)
 
+https://github.com/StefanBaar/Kari-haizoku-zemi/assets/6949138/0832dd0a-1709-4b9e-ba51-0f3064b9b2b8
+
+
+
 ## トマト - 検出 - 追跡
 
 このノートブックでは、yoloV8 を使用して個々のトマトを検出および追跡する簡単な手順を説明します。
